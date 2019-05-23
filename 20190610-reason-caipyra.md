@@ -9,5 +9,5 @@ Participa de comunidades locais de cultura e software livres, como
 projeto Ônibus Hacker, um hackerspace itinerante que espalha educação, desobediência
 e autonomia em viagens pela América Latina.
 
-Atualmente reside em São Carlos, e faz parte da Stoq, empresa que
+Atualmente reside em São Carlos, e faz parte da [Stoq](https://stoq.com.br/), empresa que
 produz software livre e soluções para o varejo.
