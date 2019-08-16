@@ -36,7 +36,7 @@ de programação funcional, CQRS, TDD e outras maravilhas, a dura realidade te l
 contas ainda é um código cheio de React.createClass, mixins, comentários "FIXME" e um "npm outdated"
 que passa de duas telas de altura.
 
-Ao mesmo tempo que pragmatismo é importante, motivação, "developer hapiness" e cheirinho de carro novo também o são.
+Ao mesmo tempo que pragmatismo é importante, motivação, "developer happiness" e cheirinho de carro novo também o são.
 Esta balança e este paradoxo fazem parte dos desafios e das dores do amadurecimento que equipes 
 de programadores tem que enfrentar.
 
