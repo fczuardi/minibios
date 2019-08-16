@@ -18,7 +18,7 @@ Atualmente reside em São Carlos e faz parte da Stoq, empresa que produz softwar
 
 Modernizando o Legado: Como introduzir Reason num projeto React vivo.
 
-Descrição:
+### Descrição:
 
 Aquele protótipo construído num prazo apertado deu certo. Foi para produção, agradou, evoluiu.
 
