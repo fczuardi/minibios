@@ -1,4 +1,4 @@
-Minibio:
+### Minibio:
 
 Autor do blog Egoísmo Duplicado, formado em Ciencia da Computação pela USP de São Carlos, co-fundador do projeto Ônibus Hacker. 
 
@@ -14,7 +14,7 @@ Atualmente reside em São Carlos e faz parte da Stoq, empresa que produz softwar
 
 -----
 
-Título: 
+### Título: 
 
 Modernizando o Legado: Como introduzir Reason num projeto React vivo.
 
@@ -49,6 +49,6 @@ Entre os tópicos abordados, algumas dicas de como:
 
 -----
 
-Informações extras/pré-requisitos:
+### Informações extras/pré-requisitos:
 
 - Javascript, React básico
