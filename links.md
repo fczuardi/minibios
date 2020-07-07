@@ -1,0 +1,4 @@
+- cv (2017)
+  - https://blog.fabricio.org/curriculo/
+- linkedin
+  - https://www.linkedin.com/in/fabricio/
