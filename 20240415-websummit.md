@@ -1,1 +1,1 @@
-TBD
+Free Software evangelist, developer, writer. Fabricio Zuardi is part of the brazilian Bitcoin community, hosts the monthly meetup BitDevs in Ribeirão Preto, works at Magalu Cloud, has code contributions to the Alby Lightning Wallet and other open source projects.
